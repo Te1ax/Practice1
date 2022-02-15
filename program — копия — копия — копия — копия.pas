@@ -1,5 +1,5 @@
 ﻿Program Prog1;
 begin
   writeln('Hello World!!!');
-  writeln('HelloWorld!!!');
+  writeln('Hello World!!!');
 end.
